@@ -3,6 +3,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivabollam07" alt="shivabollam07" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/bollamshivasha2" target="blank"><img src="https://img.shields.io/twitter/follow/bollamshivasha2?logo=twitter&style=for-the-badge" alt="bollamshivasha2" /></a> </p>
+<h4>Everybody think, Iam dumb including you</h4>
 
 - 🔭 I’m currently working on **MERN**
 
