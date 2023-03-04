@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/bollamshivasha2" target="blank"><img src="https://img.shields.io/twitter/follow/bollamshivasha2?logo=twitter&style=for-the-badge" alt="bollamshivasha2" /></a> </p>
 
-- 🔭 I’m currently working on **Netflix-App**
+- 🔭 I’m currently working on **MERN**
 
 - I'm currently learning **ReactNative,MongoDB**
 
