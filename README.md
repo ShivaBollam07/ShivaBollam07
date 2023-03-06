@@ -14,8 +14,42 @@
 - 📫reach me **shivabollam07@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1VyJngmgnvHflxaV76U7ZHo-hll5XFHDf/view?usp=share_link](https://drive.google.com/file/d/1VyJngmgnvHflxaV76U7ZHo-hll5XFHDf/view?usp=share_link)
+<h2>Here are my projects</h3>
+Calculator:
+https://shivabollam07.github.io/Calculator/
 
+Drum_Machine:
+https://shivabollam07.github.io/Drum_Machine/
 
+Markdown-Previewer(Editor):
+https://shivabollam07.github.io/Markdown-Previewer/
+
+Netflix Login and SignUp page:
+https://github.com/ShivaBollam07/Netflix-Login-Signup-page
+
+Personal Portfolio:
+https://shivabollam07.github.io/Res_Portfolio/
+
+College-Portfolio:
+https://shivabollam07.github.io/Amrita_Portfolio/Amrita/
+
+E-commerce-website:
+https://shivabollam07.github.io/E-commerce-website/index.html  
+
+ToDoListApp(using MongoDB,React js,Express ,Node js):
+https://github.com/ShivaBollam07/ToDoListApp
+
+Styled_Mobile_Navigation:
+https://shivabollam07.github.io/Styled_Mobile_Navigation/
+
+Product Landing page:
+https://shivabollam07.github.io/Product_Landing_Page/
+
+Technical Documentation:
+https://shivabollam07.github.io/TechnicalDocumetation/
+
+Apple Home Page:
+https://shivabollam07.github.io/Apple-Homepage/
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/bollamshivasha2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bollamshivasha2" height="30" width="40" /></a>
