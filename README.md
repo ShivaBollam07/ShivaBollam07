@@ -9,7 +9,7 @@
 
 - I'm currently learning **ReactNative,MongoDB**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ShivaBollam07?tab=repositories](https://github.com/ShivaBollam07)
+- 👨‍💻 All of my projects are available at [https://github.com/ShivaBollam07?tab=repositories](https://github.com/ShivaBollam07?tab=repositories)
 
 - 📫reach me **shivabollam07@gmail.com**
 
