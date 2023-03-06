@@ -33,4 +33,40 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivabollam07&" alt="shivabollam07" /></p>
 
--->
+<h2>Here are some of my works</h2>
+
+Calculator:
+https://shivabollam07.github.io/Calculator/
+
+Drum_Machine:
+https://shivabollam07.github.io/Drum_Machine/
+
+Markdown-Previewer(Editor):
+https://shivabollam07.github.io/Markdown-Previewer/
+
+Netflix Login and SignUp page:
+https://github.com/ShivaBollam07/Netflix-Login-Signup-page
+
+Personal Portfolio:
+https://shivabollam07.github.io/Res_Portfolio/
+
+College-Portfolio:
+https://shivabollam07.github.io/Amrita_Portfolio/Amrita/
+
+E-commerce-website:
+https://shivabollam07.github.io/E-commerce-website/index.html  
+
+ToDoListApp(using MongoDB,React js,Express ,Node js):
+https://github.com/ShivaBollam07/ToDoListApp
+
+Styled_Mobile_Navigation:
+https://shivabollam07.github.io/Styled_Mobile_Navigation/
+
+Product Landing page:
+https://shivabollam07.github.io/Product_Landing_Page/
+
+Technical Documentation:
+https://shivabollam07.github.io/TechnicalDocumetation/
+
+Apple Home Page:
+https://shivabollam07.github.io/Apple-Homepage/
