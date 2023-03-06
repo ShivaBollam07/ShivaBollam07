@@ -15,7 +15,6 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1VyJngmgnvHflxaV76U7ZHo-hll5XFHDf/view?usp=share_link](https://drive.google.com/file/d/1VyJngmgnvHflxaV76U7ZHo-hll5XFHDf/view?usp=share_link)
 
-<h4>Everybody think, Iam dumb including you</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
