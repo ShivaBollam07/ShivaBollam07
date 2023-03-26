@@ -9,7 +9,6 @@
 
 - I'm currently learning **ReactNative,MongoDB**
 
-- I'm currently Making a Tesla app using **ReactNative,Firebase**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ShivaBollam07?tab=repositories](https://github.com/ShivaBollam07?tab=repositories)
 
