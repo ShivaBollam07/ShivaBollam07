@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shiva</h1>
-<h3 align="center">A passionate frontend developer </h3>
+<h3 align="center">A passionate Full stack developer </h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivabollam07" alt="shivabollam07" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/bollamshivasha2" target="blank"><img src="https://img.shields.io/twitter/follow/bollamshivasha2?logo=twitter&style=for-the-badge" alt="bollamshivasha2" /></a> </p>
