@@ -16,6 +16,10 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1VyJngmgnvHflxaV76U7ZHo-hll5XFHDf/view?usp=share_link](https://drive.google.com/file/d/1VyJngmgnvHflxaV76U7ZHo-hll5XFHDf/view?usp=share_link)
 
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=shivabollam07&label=Profile%20Views&color=11&icon=5&pretty=true" />
+</a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/bollamshivasha2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bollamshivasha2" height="30" width="40" /></a>
