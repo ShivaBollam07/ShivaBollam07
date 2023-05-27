@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/httpsshiva-shankara-varaprasad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="httpsshiva-shankara-varaprasad" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/httpsshiva-shankara-varaprasad](https://www.linkedin.com/in/shiva-shankara-varaprasad-a04062222/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shiva shankara varaprasad" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/shivabollam07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shivabollam07" height="30" width="40" /></a>
 </p>
 
