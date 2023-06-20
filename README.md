@@ -5,11 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **MongoDB,Node js**
-
-- 👨‍💻 All of my projects are available at [https://github.com/ShivaBollam07?tab=repositories](https://github.com/ShivaBollam07?tab=repositories)
-
-- 📫 How to reach me **shivabollam07@gmail.com**
+- 🌱 I’m currently learning **MERN**
 
 - ⚡**Lets make it simple**
 
