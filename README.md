@@ -3,7 +3,7 @@
 
 <h3 align="center">A passionate MERN Stack developer</h3>
 
-
+![image](https://github.com/ShivaBollam07/ShivaBollam07/assets/98306948/dbe3eecb-cc75-4658-b1bd-354d9abf8e16)
 
 - 🌱 I’m currently learning **MERN**
 
