@@ -9,9 +9,9 @@
 - ⚡**Lets make it simple**
 - Projects about to do:
 - NLP-based Chatbot
-- Movie or Music Recommendation System
+- Movie or Music Recommendation System,
 - Data Structures and Algorithms Project:
-     Algorithm Visualizer
+     Algorithm Visualizer,
      Competitive Coding Platform
 
 
