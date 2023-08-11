@@ -4,15 +4,7 @@
 <h3 align="center">A passionate developer</h3>
 
 
-- 🌱 I’m currently learning **MERN**, NLP
-
-- ⚡**Lets make it simple**
-- Projects about to do:
- - NLP-based Chatbot
- - Movie or Music Recommendation System,
- - Data Structures and Algorithms Project:
-       -Algorithm Visualizer,
-       -Competitive Coding Platform
+- 🌱 I’m currently learning **MERN**
 
 
 
