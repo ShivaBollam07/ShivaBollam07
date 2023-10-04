@@ -27,7 +27,6 @@
 <h6>Concepts:</h6>
 <ul>
   <li>Data structures</li>
-  <li>Algorithms</li>
   <li>Object-Oriented Programming (OOP)</li>
 </ul>
 
