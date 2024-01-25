@@ -10,12 +10,13 @@
 <h6>Frameworks:</h6>
 <ul>
   <li>Node.js</li>
-  <li>React Native</li>
 </ul>
 
 <h6>Database System:</h6>
 <ul>
   <li>MySQL</li>
+  <li>MongoDB</li>
+  <li>PostgreSql</li>
 </ul>
 
 <h6>Libraries:</h6>
@@ -28,6 +29,7 @@
 <ul>
   <li>Data structures</li>
   <li>Object-Oriented Programming (OOP)</li>
+  <li>Operating systems</li>
 </ul>
 
 
