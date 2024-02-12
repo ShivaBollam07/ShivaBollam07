@@ -1,37 +1,36 @@
+# Hi 👋, I'm Shiva
 
-<h1 align="center">Hi 👋, I'm  Shiva</h1>
+**Undergraduate Student | Android App Developer | Deep Learning Enthusiast**  
+**Email:** shivabollam07@gmail.com  
 
-<h6>Languages:</h6>
-<ul>
-  <li>Java</li>
-  <li>Python</li>
-</ul>
+---
 
-<h6>Frameworks:</h6>
-<ul>
-  <li>Node.js</li>
-</ul>
+## About Me
 
-<h6>Database System:</h6>
-<ul>
-  <li>MySQL</li>
-  <li>MongoDB</li>
-  <li>PostgreSql</li>
-</ul>
+Enthusiastic Computer Science student specializing in Android app development with hands-on experience. Dedicated to continuous learning and staying updated. Actively exploring deep learning for advanced applications.
 
-<h6>Libraries:</h6>
-<ul>
-  <li>Scikit-Learn</li>
-  <li>TensorFlow</li>
-</ul>
+---
 
-<h6>Concepts:</h6>
-<ul>
-  <li>Data structures</li>
-  <li>Object-Oriented Programming (OOP)</li>
-  <li>Operating systems</li>
-</ul>
+## Skills
 
+### Programming Languages
+- Java
+- Python
+- JavaScript
 
+### Database Systems
+- MySQL
+- MongoDB
+- PostgreSQL
 
+### Libraries/Frameworks
+- React Native
+- Node.js
+- Express
+- Firebase
 
+### Concepts
+- Data Structures
+- Object Oriented Programming
+- Networking
+- Operating Systems
