@@ -7,7 +7,7 @@
 
 ## About Me
 
-Enthusiastic Computer Science student specializing in Android app development with hands-on experience. Dedicated to continuous learning and staying updated. Actively exploring deep learning for advanced applications.
+Enthusiastic Computer Science student specializing in AI/ML and proficient in Android app development with hands-on experience. Dedicated to continuous learning and staying updated, actively exploring deep learning for advanced applications
 
 ---
 
