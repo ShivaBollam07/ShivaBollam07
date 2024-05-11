@@ -34,3 +34,8 @@ Enthusiastic Computer Science student specializing in AI/ML and proficient in An
 - Object Oriented Programming
 - Networking
 - Operating Systems
+
+  
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=shivabollam07&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shivabollam07&langs_count=5&theme=tokyonight)]()
+
