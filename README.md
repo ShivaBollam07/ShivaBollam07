@@ -1,13 +1,13 @@
 # Hi 👋, I'm Shiva
 
-**Undergraduate Student | Android App Developer | Deep Learning Enthusiast**  
+**Undergraduate Student | Backend Developer**  
 **Email:** shivabollam07@gmail.com  
 
 ---
 
 ## About Me
 
-Enthusiastic Computer Science student specializing in AI/ML and proficient in Android app development with hands-on experience. Dedicated to continuous learning and staying updated, actively exploring deep learning for advanced applications
+Enthusiastic Computer Science student specializing in AI/ML and proficient in app development with hands-on experience. Dedicated to continuous learning and staying updated, actively exploring deep learning for advanced applications
 
 ---
 
@@ -23,19 +23,21 @@ Enthusiastic Computer Science student specializing in AI/ML and proficient in An
 - MongoDB
 - PostgreSQL
 
-### Libraries/Frameworks
-- React Native
-- Node.js
+### Libraries and Frameworks
+- Node JS
 - Express
 - Firebase
+- React JS
 
-### Concepts
-- Data Structures
+### Others
 - Object Oriented Programming
 - Networking
 - Operating Systems
 
-  
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=shivabollam07&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shivabollam07&langs_count=5&theme=tokyonight)]()
+
+
+**Profile Views**
+
+
+![Visitor Count](https://profile-counter.glitch.me/shivabollam07/count.svg)
 
