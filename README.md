@@ -5,9 +5,7 @@
 
 ---
 
-## About Me
-
-Passionate AI student with experience in backend development, proficient in creating efficient database systems and APIs. Proven ability to work on diverse projects and contribute to successful outcomes through strong problem-solving and analytical skills.
+I write code that sometimes works 
 
 ---
 
