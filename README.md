@@ -3,12 +3,6 @@
 **Undergraduate Student | Backend Developer**  
 **Email:** shivabollam07@gmail.com  
 
----
-
-I write code that sometimes works 
-
----
-
 ## Skills
 
 ### Programming Languages
