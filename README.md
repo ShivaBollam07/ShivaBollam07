@@ -30,8 +30,6 @@
 
 ## GitHub Stats
 
-![Shiva's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivabollam07&show_icons=true&theme=radical)       ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivabollam07&layout=compact&theme=radical)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shivabollam07&theme=radical)
 
 
