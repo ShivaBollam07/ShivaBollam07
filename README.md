@@ -20,6 +20,7 @@
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Java Spring](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=green)
 
 ### Others
 ![Object Oriented Programming](https://img.shields.io/badge/Object_Oriented_Programming-0096D6?style=for-the-badge&logo=visual-studio-code&logoColor=white)
